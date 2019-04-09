@@ -1,4 +1,4 @@
-![Image of Daenerys Targaryen](https://github.com/caroledodge/Game-of-Thrones-Whos-Who/daenerysPNG.png)
+![Image of Daenerys Targaryen](./daenerysPNG.png)
 
 
 
