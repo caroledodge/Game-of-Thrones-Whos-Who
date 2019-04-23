@@ -1,11 +1,18 @@
 
-![Screenshot of Character List](./ScreenShotCharacterList.png)
+{:.screenshot-img}
+![Screenshot of Character List](./ScreenShotCharList.png)
 
-<div class="test1">Stuff</div><div class="test2">More Stuff</div>
+{:.screenshot-img}
+![Screenshot of Character List](./ScreenShotCharList.png)
+
+{:.screenshot-img}
+![Screenshot of Character List](./ScreenShotCharList.png)
 
 Need a refresher on the first seven seasons of our favorite show? Keep this app by your side while you watch prior seasons or the new final season. Lists and images of ALL the primary characters are included, along with a short outline of that character's history on the show. In addition, browse the Noble Houses of Westeros and learn more about the many groups and religions represented on the show thus far. It's a great way to get ready for the new season of GoT!
 
-
-
-
-
+<style>
+  .screenshot-img {
+    width: 33%;
+    display: inline-block;
+  }
+</style>
